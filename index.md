@@ -61,7 +61,7 @@ That’s it. No account, no tutorial maze — just pick up and play.
 
 Block Burst does **not** collect personal data. Your high score is stored **only on your device**. There are no ads, accounts, or third-party analytics in the app.
 
-Read the full policy: [Privacy Policy](privacy.html)
+Read the full policy: [Privacy Policy](privacy-policy.md)
 
 ---
 
