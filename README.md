@@ -3,6 +3,7 @@
 GitHub Pages site for **Block Burst**.
 
 - **Live site:** https://nellytadi.github.io/
+- **Support:** https://nellytadi.github.io/support
 - **Privacy policy:** https://nellytadi.github.io/privacy-policy
 
 ## Publish
