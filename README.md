@@ -77,7 +77,7 @@ Block Burst is available on the **App Store** for iPhone and iPad.
 
 Questions, bugs, or ideas? We’d love to hear from you.
 
-- **Email:** [nelly.tadi@smartbox.com](mailto:nelly.tadi@smartbox.com)  
+- **Email:** [nellytadi@gmail.com](mailto:nellytadi@gmail.com)  
 - **GitHub:** [nellytadi/Blocks-Game](https://github.com/nellytadi/Blocks-Game)  
 - **Issues:** [Report a bug or request a feature](https://github.com/nellytadi/Blocks-Game/issues)
 
