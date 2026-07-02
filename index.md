@@ -1,6 +1,7 @@
 ---
 title: Block Burst
 description: A quick block puzzle game for iPhone and iPad. Place shapes, clear lines, beat your score.
+layout: default
 ---
 
 # Block Burst
