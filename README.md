@@ -48,4 +48,4 @@ We may update this policy from time to time. The “Last updated” date at the 
 Contact
 -------
 
-Questions about this policy? Contact us at [nelly.tadi@smartbox.com](mailto:nelly.tadi@smartbox.com) or via [GitHub Issues](https://github.com/nellytadi/Blocks-Game/issues).
+Questions about this policy? Contact us at [nellytadi@gmail.com](mailto:nellytadi@gmail.com) or via [GitHub Issues](https://github.com/nellytadi/Blocks-Game/issues).
